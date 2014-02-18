@@ -1,0 +1,9 @@
+# Installation Instructions
+
+1. Unzip this file in your site's packages/ directory.
+2. MANUALLY COPY the contents of this package's libraries directory into your site's libraries directory.
+3. MANUALLY COPY concrete/dispatcher.php into your site's concrete directory.
+4. Login to your site as an administrator.
+5. Find the "Add Functionality" page in your dashboard.
+6. Find this package in the list of packages awaiting installation.
+7. Click the "install" button.
