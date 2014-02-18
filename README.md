@@ -2,7 +2,9 @@ RESS for Concrete5
 ========
 
 This package adds RESS for improved mobile detection as detailed here:
+
 http://www.lukew.com/ff/entry.asp?1392
+
 http://www.netmagazine.com/tutorials/getting-started-ress
 
 NOTE: You must manually copy the contents of this package's libraries directory into your root/libraries directory.
